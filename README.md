@@ -1,19 +1,19 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00008B&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4F4F4F&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Gustavo+Barbosa;Mas+Pode+Me+Chamar+De+JAMAU;Eu+Tenho+20+Anos;Moro+No+Brasil;Faço+Faculdade+De+Ciências+Da+Computação;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=888888&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+%c3%a9+Gustavo+Barbosa;Mas+Pode+Me+Chamar+De+JAMAU;Eu+Tenho+20+Anos;Moro+No+Brasil;Faço+Faculdade+De+Ciências+Da+Computação;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GustavoJamau&show_icons=true&count_private=true&hide_border=true&title_color=00008B&icon_color=00008B&text_color=c9d1d9&bg_color=0d1117" alt="GustavoJamau github stats" /> 
-  <img width="44%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoJamau&exclude_repo=KNN-Image-Classification&layout=compact&hide_border=true&title_color=00008B&text_color=FFFFFF&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GustavoJamau&show_icons=true&count_private=true&hide_border=true&title_color=4F4F4F&icon_color=888888&text_color=AAAAAA&bg_color=00000000" alt="GustavoJamau github stats" /> 
+  <img width="44%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoJamau&exclude_repo=KNN-Image-Classification&layout=compact&hide_border=true&title_color=4F4F4F&text_color=AAAAAA&bg_color=00000000" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GustavoJamau&bg_color=0d1117&color=ffffff&line=ffffff&point=00008b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GustavoJamau&bg_color=00000000&color=888888&line=4F4F4F&point=888888&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center"> 
   <a href="https://www.instagram.com/gustavojamau/?next=%2F" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://www.youtube.com/channel/UCFuqTQ4FaS1XfAS7XSkKAxw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="mailto:gustavojamau456@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gustavo-barbosa-jamau-360858226/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+  <a href="https://www.youtube.com/channel/UCFuqTQ4FaS1XfAS7XSkKAxw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <a href="mailto:gustavojamau456@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/gustavo-barbosa-jamau-360858226/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
 
 ### Minhas Habilidades:
@@ -36,4 +36,4 @@
   <br>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00008B&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4F4F4F&height=120&section=footer"/>

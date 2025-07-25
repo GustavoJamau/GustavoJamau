@@ -1,9 +1,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4F4F4F&height=120&section=header"/>
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=888888&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Gustavo+Barbosa;Mas+Pode+Me+Chamar+De+JAMAU;Eu+Tenho+20+Anos;Moro+No+Brasil;Faço+Faculdade+De+Ciências+Da+Computação;Seja+Bem-Vindo!+:%29" alt="Typing SVG">
-  </a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?color=888888&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Gustavo+Barbosa;Mas+Pode+Me+Chamar+De+JAMAU;Eu+Tenho+20+Anos;Moro+No+Brasil;Faço+Faculdade+De+Ciências+Da+Computação;Seja+Bem-Vindo!+:%29" alt="Typing SVG">
+  </a>
 </h1>
 
 ---
@@ -11,8 +11,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GustavoJamau&show_icons=true&hide_border=true&title_color=4F4F4F&icon_color=888888&text_color=AAAAAA&bg_color=00000000" alt="GustavoJamau GitHub Stats"/>
-  <img width="44%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoJamau&layout=compact&hide_border=true&title_color=4F4F4F&text_color=AAAAAA&bg_color=00000000"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GustavoJamau&show_icons=true&hide_border=true&title_color=4F4F4F&icon_color=888888&text_color=AAAAAA&bg_color=00000000" alt="GustavoJamau GitHub Stats"/>
+  <img width="44%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoJamau&layout=compact&hide_border=true&title_color=4F4F4F&text_color=AAAAAA&bg_color=00000000"/>
 </div>
 
 <br/>
@@ -41,19 +41,19 @@
 
 ## 🌐 Redes Sociais
 
-<div align="center"> 
-  <a href="https://www.instagram.com/gustavojamau/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="https://www.youtube.com/channel/UCFuqTQ4FaS1XfAS7XSkKAxw" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-  </a>
-  <a href="mailto:gustavojamau456@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/gustavo-barbosa-jamau-360858226/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
+<div align="center"> 
+  <a href="https://www.instagram.com/gustavojamau/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="https://www.youtube.com/channel/UCFuqTQ4FaS1XfAS7XSkKAxw" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  </a>
+  <a href="mailto:gustavojamau456@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/gustavo-barbosa-jamau-360858226/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 </div>
 
 ---
@@ -61,7 +61,7 @@
 ## 👁️ Contador de Visitas
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=GustavoJamau&color=4F4F4F" alt="Contador de visitas do perfil" />
+  <img src="https://profile-counter.glitch.me/{GustavoJamau}/count.svg" />
 </div>
 
 <br/>

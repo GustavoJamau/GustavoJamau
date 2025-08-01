@@ -8,19 +8,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GustavoJamau&show_icons=true&hide_border=true&title_color=4F4F4F&icon_color=888888&text_color=AAAAAA&bg_color=00000000" alt="GustavoJamau GitHub Stats"/>
-  <img width="44%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoJamau&layout=compact&hide_border=true&title_color=4F4F4F&text_color=AAAAAA&bg_color=00000000"/>
-</div>
-
-<br/>
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GustavoJamau&bg_color=00000000&color=888888&line=4F4F4F&point=888888&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
 ## 🚀 Minhas Habilidades
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -36,6 +23,19 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GustavoJamau&show_icons=true&hide_border=true&title_color=4F4F4F&icon_color=888888&text_color=AAAAAA&bg_color=00000000" alt="GustavoJamau GitHub Stats"/>
+  <img width="44%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoJamau&layout=compact&hide_border=true&title_color=4F4F4F&text_color=AAAAAA&bg_color=00000000"/>
+</div>
+
+<br/>
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GustavoJamau&bg_color=00000000&color=888888&line=4F4F4F&point=888888&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -57,13 +57,5 @@
 </div>
 
 ---
-
-## 👁️ Contador de Visitas
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/{GustavoJamau}/count.svg" />
-</div>
-
-<br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4F4F4F&height=120&section=footer"/>
